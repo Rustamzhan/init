@@ -1,0 +1,3 @@
+/*command lists the partition tables of drives*/
+
+fdisk -l

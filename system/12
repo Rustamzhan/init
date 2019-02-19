@@ -1,0 +1,3 @@
+/*exact size of each folfer of /var in a humanly understandable way*/
+
+du -h /var/
