@@ -1,0 +1,3 @@
+/*command that kills ssh service*/
+
+systemctl kill ssh

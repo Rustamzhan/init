@@ -1,0 +1,3 @@
+/*command that list all packages*/
+
+dpkg-query -l

@@ -1,0 +1,5 @@
+/*command that kills the background command's process*/
+
+kill process-Name
+
+/*background processes you can find with command 'jobs'*/

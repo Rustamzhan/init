@@ -1,0 +1,3 @@
+/*graphic session: logout or switch user.
+ssh session: ssh name@127.0.0.1 -p 2200
+*/

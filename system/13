@@ -1,0 +1,5 @@
+/*command that find, in rel time, currently running processes*/
+
+ps aux
+
+/*top*/

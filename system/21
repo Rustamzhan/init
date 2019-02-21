@@ -1,0 +1,5 @@
+/*list all real users on the vm*/
+
+getent passwd
+
+/* users with id >= 1000 is real */

@@ -1,0 +1,5 @@
+/*list all services which are started at boot time and name this kind of services*/
+
+systemctl list-unit-files --state enabled
+
+/*daemons*/

@@ -1,0 +1,3 @@
+/*run a command in background*/
+
+tail -f /var/log/syslog &
