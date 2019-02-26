@@ -1,0 +1,9 @@
+#!/bin/bash
+
+if [ $# -eq 0 ]
+then
+read -p "Input username: "
+echo -e "\033[1;4;41m$(ldapsearch uid=$REPLY | grep 'mobile')\033[0m"
+else
+echo -e "\033[1;4;41m$(ldapsearch uid=$1 | grep 'mobile')\033[0m"
+fi

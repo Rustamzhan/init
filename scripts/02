@@ -2,5 +2,5 @@
 
 sudo userdel -f -r $1
 
-/*sudo pkill -u $1
-sudo deluser --remove-all-files $1*/
+#sudo pkill -u $1
+#sudo deluser --remove-all-files $1
